@@ -5,7 +5,7 @@
 <a href="/LICENSE">
     <img src="https://img.shields.io/github/license/sdf8057/cloudbuild?style=flat&a=1" alt="">
     <img src="https://img.shields.io/github/release/sdf8057/cloudbuild.svg?style=flat">
-  </a><a href="hhttps://github.com/sdf8057/cloudbuild/releases">
+  </a><a href="https://github.com/Kurosaki-Senpai/Kurosaki-Senpai-AX18-OPENWRT-WIFI-USB/releases">
 </div>
 <br>
 
