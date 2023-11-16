@@ -20,7 +20,7 @@ permissions:
 env:
   REPO_URL: https://github.com/Kurosaki-Senpai/IPQ6000-WIFI.git
 #  REPO_URL: https://github.com/wenpo1975/ipq6000-wifi
-  REPO_BRANCH: wifi
+  REPO_BRANCH: main
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: ./config/zn-m2.config
   DIY_P1_SH: ./scripts/zn-m2/diy-part1.sh
