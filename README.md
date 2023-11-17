@@ -10,20 +10,16 @@
 1.添加cpu温度、频率以及npu占用率显示。  
 2.修复nat环回功能失效bug。  
 3.cpu超频至1.6ghz，跑分2w+。  
-4.添加基础插件
+4.添加基础插件  
 5.支持在线安装软件，手动安装请确保插件使用lua语言编写。  
-6.保留
+6.完整的USB支持(大概)  
 7.此页面发布的AX18固件集成无线功能。  
 
 ## 集成插件列表 
 luci-app-openclash  
 luci-app-ddns  
 luci-app-msd_lite  
-luci-app-wol  
-luci-app-upnp  
-luci-app-uhttpd  
-luci-app-cpufreq
-luci-app-aria2
+luci-app-aria2  
 luci-app-zerotier  
 
 ...
