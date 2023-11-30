@@ -16,9 +16,28 @@
 7.  
 
 ## 集成插件列表  
+luci-app-ntpc  
+luci-app-ttyd  
+luci-app-arpbind  
+luci-app-ramfree  
+luci-app-nft-qos  
+luci-app-wol  
+luci-app-ahcp  
+luci-app-firewall=  
+luci-app-autoreboot  
+luci-app-advancedsetting  
+luci-app-webadmin  
+luci-app-samba4  
+luci-app-upnp  
+luci-app-frpc  
+luci-app-uhttpd  
 luci-app-openclash  
-luci-app-ddns  
 luci-app-msd_lite  
 luci-app-aria2  
 luci-app-zerotier  
-...
+luci-app-kodexplorer  
+luci-app-watchcat  
+luci-app-filebrowser  
+luci-app-vlmcsd  
+luci-app-adbyby-plus  
+...  
