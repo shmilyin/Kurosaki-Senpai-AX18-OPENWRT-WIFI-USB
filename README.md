@@ -1,11 +1,11 @@
 <div align="center">
   <h1 align="center">
-     ZN-M2&AX18 无线设备的 OpenWrt 固件发布页面
+     ZN_M2&CMIOT_AX18 无线设备的 OpenWrt 固件发布页面
   </h1>
 </div>
 <br>
 
-## ZN-M2&AX18固件特性  
+## ZN_M2&CMIOT_AX18固件特性  
 0.默认后台地址192.168.1.1；默认后台密码password。  
 1.更新内容与https://github.com/sdf8057/ipq6000相同  
 2.完整的USB支持(大概)  
