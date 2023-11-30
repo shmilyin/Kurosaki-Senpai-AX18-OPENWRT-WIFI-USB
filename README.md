@@ -11,9 +11,9 @@
 2.完整的USB支持(大概)  
 3.cpu支持超频至1.6ghz  
 4.补齐部分扩展插件(可选)  
-5.支持在线安装软件，手动安装请确保插件使用lua语言编写。  
+5.支持在线安装软件,手动安装请确保插件使用lua语言编写。  
 6.此页面发布的AX18固件集成无线功能,2.4G无法正常显示传输速率  
-7.  
+7.硬盘只支持ext*与fat *不支持ntfs,支持4g网卡,usb共享(安卓,苹果自行安装对应插件).  
 
 ## 集成插件列表  
 luci-app-ntpc  
@@ -23,7 +23,7 @@ luci-app-ramfree
 luci-app-nft-qos  
 luci-app-wol  
 luci-app-ahcp  
-luci-app-firewall=  
+luci-app-firewall  
 luci-app-autoreboot  
 luci-app-advancedsetting  
 luci-app-webadmin  
